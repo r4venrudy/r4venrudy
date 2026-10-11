@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Rudy Central — flagship security workbench</title>
+  <desc id="desc">One workbench. From scope to evidence. Rust, C and eBPF, TypeScript, React. Early platform; private source.</desc>
+  <rect width="1280" height="360" rx="18" fill="#0a1018"/>
+  <rect width="7" height="360" fill="#55e0b6"/>
+  <path d="M918 0v300M978 0v300M1038 0v300M1098 0v300M1158 0v300M1218 0v300M900 60h380M900 120h380M900 180h380M900 240h380" stroke="#142333"/>
+  <text x="48" y="51" fill="#55e0b6" font-family="monospace" font-size="17" letter-spacing="3">FLAGSHIP / SECURITY WORKBENCH</text>
+  <text x="46" y="127" fill="#edf4fc" font-family="Arial, sans-serif" font-size="64" font-weight="700">Rudy Central</text>
+  <text x="48" y="180" fill="#97acc1" font-family="Arial, sans-serif" font-size="29">One workbench. From scope to evidence.</text>
+  <text x="48" y="224" fill="#97acc1" font-family="Arial, sans-serif" font-size="24">Authorized assessment / Linux kernel visibility</text>
+  <path d="M48 278h1184" stroke="#243448"/>
+  <text x="48" y="323" fill="#55e0b6" font-family="monospace" font-size="20">RUST / C + eBPF / TYPESCRIPT / REACT</text>
+  <text x="1232" y="323" text-anchor="end" fill="#97acc1" font-family="monospace" font-size="17">EARLY PLATFORM / PRIVATE SOURCE</text>
+  <g fill="#101b28" stroke="#243448" stroke-width="2">
+    <rect x="936" y="38" width="280" height="50" rx="8"/>
+    <rect x="936" y="119" width="280" height="50" rx="8"/>
+    <rect x="936" y="200" width="280" height="50" rx="8"/>
+  </g>
+  <g fill="#55e0b6" font-family="monospace" font-size="18" text-anchor="middle">
+    <text x="1076" y="70">VERIFIED SCOPE</text>
+    <text x="1076" y="151">SIGNED CAPTURES</text>
+    <text x="1076" y="232">REVIEWABLE EVIDENCE</text>
+  </g>
+  <path d="M1076 88v31m-5-7 5 7 5-7M1076 169v31m-5-7 5 7 5-7" stroke="#55e0b6" stroke-width="2" fill="none"/>
+</svg>

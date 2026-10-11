@@ -10,9 +10,19 @@
 
 I'm **Raven**, founder of **[Rudy Systems](https://rudy.systems)**. I build tools for systems programming, network reconnaissance, and security research, with a focus on evidence you can inspect.
 
-My current systems project connects a **C kernel sensor**, a **C++20 detection engine**, and a **C# desktop console**. Across the collection, you'll also find HTTP/TLS auditing, DNS tooling, and public-source intelligence workflows.
+My flagship project is **Rudy Central**, a security workbench spanning **Rust**, **C / eBPF**, **TypeScript**, and **React**. I also build native Windows research tools in **C, C++20, and C#**, alongside HTTP/TLS auditing, DNS tooling, and public-source intelligence workflows.
 
 ## Selected work
+
+<a href="https://github.com/r4venrudy/r4venrudy/blob/main/projects/rudy-central.md"><img src="https://raw.githubusercontent.com/r4venrudy/r4venrudy/main/assets/central.svg" alt="Rudy Central — Flagship security workbench. Rust, C / eBPF, TypeScript and React." width="100%"></a>
+
+**[Rudy Central](https://github.com/r4venrudy/r4venrudy/blob/main/projects/rudy-central.md)** is my flagship project: a local-first security workbench connecting authorized assessment, bounded Linux kernel telemetry, signed evidence, and remediation in one browser workspace.
+
+**Rust · C / eBPF · TypeScript · React** — native host collection meets an evidence-centered investigation workflow. **v0.2.0 / early platform; source private.**
+
+[Explore the project](https://github.com/r4venrudy/r4venrudy/blob/main/projects/rudy-central.md) · [Rudy Systems](https://rudy.systems)
+
+---
 
 <a href="https://github.com/r4venrudy/rudy-sentinel"><img src="https://raw.githubusercontent.com/r4venrudy/r4venrudy/main/assets/sentinel.svg" alt="Rudy Sentinel — C kernel sensor, C++ engine, C# console; endpoint detection research preview" width="100%"></a>
 
@@ -35,12 +45,12 @@ My current systems project connects a **C kernel sensor**, a **C++20 detection e
 
 ## More field tools
 
-| Tool | What it explores |
-| :--- | :--- |
-| **[IP Checker](https://github.com/r4venrudy/rudy-ip-checker)** | Shodan, VirusTotal, WHOIS, and Tor exit-node observations in Discord |
-| **[DNS Checker](https://github.com/r4venrudy/rudy-dns-checker)** | DNS records and domain registration information |
-| **[Username OSINT](https://github.com/r4venrudy/rudy-username-osint)** | Public username discovery through Sherlock and Discord |
-| **[Metadata Checker](https://github.com/r4venrudy/rudy-metadata-checker)** | File metadata inspection through Discord |
+| Tool                                                                       | What it explores                                                     |
+| :------------------------------------------------------------------------- | :------------------------------------------------------------------- |
+| **[IP Checker](https://github.com/r4venrudy/rudy-ip-checker)**             | Shodan, VirusTotal, WHOIS, and Tor exit-node observations in Discord |
+| **[DNS Checker](https://github.com/r4venrudy/rudy-dns-checker)**           | DNS records and domain registration information                      |
+| **[Username OSINT](https://github.com/r4venrudy/rudy-username-osint)**     | Public username discovery through Sherlock and Discord               |
+| **[Metadata Checker](https://github.com/r4venrudy/rudy-metadata-checker)** | File metadata inspection through Discord                             |
 
 ## What I'm building toward
 
