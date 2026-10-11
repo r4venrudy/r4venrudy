@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Rudy Sentinel — C kernel sensor, C++ engine, C# console. Research preview."><title>Rudy Sentinel — C kernel sensor, C++ engine, C# console. Research preview.</title><rect width="1280" height="320" rx="18" fill="#0a1018"/>
+<rect x="0" y="0" width="7" height="320" fill="#55e0b6"/>
+<text x="48" y="50" fill="#55e0b6" font-family="monospace" font-size="17" letter-spacing="3">01 / ENDPOINT RESEARCH</text>
+<text x="46" y="118" fill="#edf4fc" font-family="Arial, sans-serif" font-size="56" font-weight="700">Rudy Sentinel</text>
+<text x="48" y="165" fill="#97acc1" font-family="Arial, sans-serif" font-size="27">Kernel signals. Behavioral correlation.</text>
+<text x="48" y="203" fill="#97acc1" font-family="Arial, sans-serif" font-size="27">Local evidence. A desktop investigation console.</text>
+<path d="M48 240h1184" stroke="#243448"/>
+<text x="48" y="280" fill="#55e0b6" font-family="monospace" font-size="21">C / C++20 / C#</text>
+<text x="1232" y="280" text-anchor="end" fill="#97acc1" font-family="monospace" font-size="19">RESEARCH PREVIEW</text>
+<g fill="#101b28" stroke="#243448" stroke-width="2"><rect x="970" y="40" width="245" height="42" rx="8"/><rect x="970" y="110" width="245" height="42" rx="8"/><rect x="970" y="180" width="245" height="42" rx="8"/></g>
+<g fill="#55e0b6" font-family="monospace" font-size="18" text-anchor="middle"><text x="1092" y="67">C / KERNEL SENSOR</text><text x="1092" y="137">C++ / ENGINE</text><text x="1092" y="207">C# / CONSOLE</text></g>
+<path d="M1092 82v28m-5-7 5 7 5-7M1092 152v28m-5-7 5 7 5-7" stroke="#55e0b6" stroke-width="2" fill="none"/></svg>

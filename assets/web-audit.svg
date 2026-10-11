@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="325" viewBox="0 0 600 325" role="img" aria-label="Rudy Web Audit — Trace redirects. Inspect policies. Compare evidence. Export SARIF."><title>Rudy Web Audit — Trace redirects. Inspect policies. Compare evidence. Export SARIF.</title><rect width="600" height="325" rx="18" fill="#0a1018"/>
+<text x="32" y="44" fill="#55e0b6" font-family="monospace" font-size="17" letter-spacing="2">02 / HTTP / TLS</text>
+<text x="30" y="106" fill="#edf4fc" font-family="Arial, sans-serif" font-size="38" font-weight="700">Rudy Web Audit</text>
+<text x="32" y="156" fill="#97acc1" font-family="Arial, sans-serif" font-size="24">Trace redirects. Inspect policies.</text>
+<text x="32" y="192" fill="#97acc1" font-family="Arial, sans-serif" font-size="24">Compare evidence. Export SARIF.</text>
+<path d="M32 237h536" stroke="#243448"/>
+<text x="32" y="283" fill="#55e0b6" font-family="monospace" font-size="20">PYTHON / CLI</text>
+<path d="M482 53h72m-72 15h48m-48 15h60" stroke="#243448" stroke-width="3"/>
+<path d="M535 281h28m-10-10 10 10-10 10" stroke="#55e0b6" stroke-width="2" fill="none"/></svg>
