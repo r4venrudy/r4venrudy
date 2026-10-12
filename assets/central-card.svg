@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="325" viewBox="0 0 600 325" role="img" aria-labelledby="title desc">
+  <title id="title">Rudy Central — security workbench</title>
+  <desc id="desc">Authorized scope, Linux visibility, signed captures and reviewable evidence. Rust, C and eBPF, TypeScript and React. Early platform; private source.</desc>
+  <rect width="600" height="325" rx="18" fill="#0a1018"/>
+  <text x="32" y="44" fill="#55e0b6" font-family="monospace" font-size="17" letter-spacing="2">02 / SECURITY WORKBENCH</text>
+  <text x="30" y="106" fill="#edf4fc" font-family="Arial, sans-serif" font-size="38" font-weight="700">Rudy Central</text>
+  <text x="32" y="156" fill="#97acc1" font-family="Arial, sans-serif" font-size="24">Authorized scope. Linux visibility.</text>
+  <text x="32" y="192" fill="#97acc1" font-family="Arial, sans-serif" font-size="24">Signed captures. Reviewable evidence.</text>
+  <path d="M32 237h536" stroke="#243448"/>
+  <text x="32" y="283" fill="#55e0b6" font-family="monospace" font-size="18">RUST / C + eBPF / TS / REACT</text>
+  <g fill="none" stroke-width="2">
+    <rect x="496" y="53" width="47" height="34" rx="4" stroke="#243448"/>
+    <rect x="508" y="65" width="47" height="34" rx="4" stroke="#55e0b6"/>
+    <path d="M518 76h24m-24 10h16" stroke="#243448"/>
+  </g>
+  <path d="M535 281h28m-10-10 10 10-10 10" stroke="#55e0b6" stroke-width="2" fill="none"/>
+</svg>

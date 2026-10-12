@@ -1,4 +1,4 @@
-<p align="center"><img src="../assets/central.svg" alt="Rudy Central — Flagship security workbench. Rust, C / eBPF, TypeScript and React." width="100%"></p>
+<p align="center"><img src="../assets/central.svg" alt="Rudy Central — Security workbench. Rust, C / eBPF, TypeScript and React." width="100%"></p>
 
 <p align="center"><strong>Define the scope. Follow the signals. Keep the evidence.</strong></p>
 <p align="center"><a href="https://github.com/r4venrudy#selected-work">Selected work</a> · <a href="https://rudy.systems">Rudy Systems</a></p>
@@ -7,7 +7,7 @@
 
 ## One workbench, from scope to evidence
 
-**Rudy Central is my flagship security platform.** It connects authorized assessment, Linux kernel visibility, evidence review, and remediation in a local-first browser workspace. The project brings native systems programming and a complete investigation interface together around one question: can an analyst follow an observation back to its evidence?
+**Rudy Central is my security workbench.** It connects authorized assessment, Linux kernel visibility, evidence review, and remediation in a local-first browser workspace. The project brings native systems programming and a complete investigation interface together around one question: can an analyst follow an observation back to its evidence?
 
 **Current stage: v0.2.0 / early platform. Source: private.** This page is the public project showcase; the implementation and operator documentation remain in the private repository.
 

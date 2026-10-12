@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="325" viewBox="0 0 600 325" role="img" aria-labelledby="title desc">
+  <title id="title">Rudy Sentinel — endpoint research</title>
+  <desc id="desc">Process signals, behavior rules and a Windows investigation console. C, C++20 and C#. Research preview.</desc>
+  <rect width="600" height="325" rx="18" fill="#0a1018"/>
+  <text x="32" y="44" fill="#55e0b6" font-family="monospace" font-size="17" letter-spacing="2">01 / ENDPOINT RESEARCH</text>
+  <text x="30" y="106" fill="#edf4fc" font-family="Arial, sans-serif" font-size="38" font-weight="700">Rudy Sentinel</text>
+  <text x="32" y="156" fill="#97acc1" font-family="Arial, sans-serif" font-size="24">Process signals. Behavior rules.</text>
+  <text x="32" y="192" fill="#97acc1" font-family="Arial, sans-serif" font-size="24">Windows investigation console.</text>
+  <path d="M32 237h536" stroke="#243448"/>
+  <text x="32" y="283" fill="#55e0b6" font-family="monospace" font-size="20">C / C++20 / C#</text>
+  <path d="M503 50l21-9 21 9v18c0 15-10 25-21 31-11-6-21-16-21-31z" fill="none" stroke="#243448" stroke-width="2"/>
+  <path d="M510 68h8l5-10 7 21 5-11h9" fill="none" stroke="#55e0b6" stroke-width="2"/>
+  <path d="M535 281h28m-10-10 10 10-10 10" stroke="#55e0b6" stroke-width="2" fill="none"/>
+</svg>
