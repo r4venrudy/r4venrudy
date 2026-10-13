@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="https://rudy.systems"><strong>Rudy Systems</strong></a> &nbsp; / &nbsp;
-  <a href="#open-source-contributions">Contributions</a> &nbsp; / &nbsp;
   <a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
   <a href="https://github.com/r4venrudy?tab=repositories">All repositories</a>
 </p>
@@ -12,16 +11,6 @@
 I'm **Raven**, founder of **[Rudy Systems](https://rudy.systems)**. I build tools for systems programming, network reconnaissance, and security research, with a focus on evidence you can inspect.
 
 My main focus is **Rudy Evidence**, a shared security SDK with a **C++20** core, a **C ABI**, and **C# and Python** bindings. I also build endpoint research tools, a Linux security workbench, and focused tools for HTTP/TLS, DNS, and public-source intelligence.
-
-## Open-source contributions
-
-<a href="https://github.com/microsoft/kiota-dotnet/pull/822"><img src="https://raw.githubusercontent.com/r4venrudy/r4venrudy/main/assets/microsoft-kiota.svg" alt="Merged contribution to Microsoft Kiota — C# HTTP retry fix, PR #822, merged 13 October 2026." width="100%"></a>
-
-**[Microsoft Kiota .NET — merged PR #822](https://github.com/microsoft/kiota-dotnet/pull/822)** · **13 October 2026**
-
-Fixed a bug where a `Retry-After` date about 90 seconds ahead could produce a delay of about 30 seconds. The C# change calculates the full delay in UTC before applying the existing cap, with eight regression cases covering future and expired dates.
-
-[Review the contribution](https://github.com/microsoft/kiota-dotnet/pull/822) · [Merged commit](https://github.com/microsoft/kiota-dotnet/commit/512cddfaf57f24477041bd1a71ea008f3dfb1b8e)
 
 ## Selected work
 
