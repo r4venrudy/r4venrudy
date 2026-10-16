@@ -44,6 +44,9 @@ My main focus is **Rudy Evidence**, a shared security SDK with a **C++20** core,
 | Tool | What it does |
 | :--- | :--- |
 | **[Web Audit](https://github.com/r4venrudy/rudy-web-audit)** | HTTP/TLS checks, redirect tracing, baseline comparison, SARIF and native evidence export |
+| **[Rudy Drift](https://github.com/r4venrudy/rudy-drift)** | Network anomaly triage in C: an Isolation Forest trained on normal traffic, calibrated scores, Zeek `conn.log` input |
+| **[Rudy Chain](https://github.com/r4venrudy/rudy-chain)** | CycloneDX SBOM dependency graphs: shortest paths, reverse dependents, cycles, release diffs and CI policy gates |
+| **[RACS](https://github.com/r4venrudy/RACS)** | Ownership-first web checks: proof of control, a declared read-only scope, and reviewed evidence |
 | **[RudyNET](https://github.com/r4venrudy/RudyNET)** | TCP/UDP checks, service banners, HTTP/TLS inspection, and DNS discovery |
 | **[DNS Checker](https://github.com/r4venrudy/rudy-dns-checker)** | DNS records, WHOIS lookups, and SPF/DMARC policy summaries through Discord |
 | **[IP Checker](https://github.com/r4venrudy/rudy-ip-checker)** | Shodan, VirusTotal, WHOIS, and Tor exit-node observations through Discord |
