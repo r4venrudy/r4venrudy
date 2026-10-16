@@ -47,12 +47,12 @@ My main focus is **Rudy Evidence**, a shared security SDK with a **C++20** core,
 | **[Rudy Drift](https://github.com/r4venrudy/rudy-drift)** | Network anomaly triage in C: an Isolation Forest trained on normal traffic, calibrated scores, Zeek `conn.log` input |
 | **[Rudy Chain](https://github.com/r4venrudy/rudy-chain)** | CycloneDX SBOM dependency graphs: shortest paths, reverse dependents, cycles, release diffs and CI policy gates |
 | **[RACS](https://github.com/r4venrudy/RACS)** | Ownership-first web checks: proof of control, a declared read-only scope, and reviewed evidence |
-| **[RudyNET](https://github.com/r4venrudy/RudyNET)** | TCP/UDP checks, service banners, HTTP/TLS inspection, and DNS discovery |
-| **[DNS Checker](https://github.com/r4venrudy/rudy-dns-checker)** | DNS records, WHOIS lookups, and SPF/DMARC policy summaries through Discord |
-| **[IP Checker](https://github.com/r4venrudy/rudy-ip-checker)** | Shodan, VirusTotal, WHOIS, and Tor exit-node observations through Discord |
+| **[RudyNET](https://github.com/r4venrudy/RudyNET)** | TCP/UDP port checks across hosts or whole networks, service banners, HTTP/TLS grading, and subdomain discovery |
+| **[DNS Checker](https://github.com/r4venrudy/rudy-dns-checker)** | DNS records, WHOIS lookups, and SPF/DMARC/DKIM/BIMI policy summaries through Discord |
+| **[IP Checker](https://github.com/r4venrudy/rudy-ip-checker)** | Shodan, VirusTotal, RDAP WHOIS, Tor exit-node, and optional AbuseIPDB and GreyNoise observations through Discord |
 | **[Username OSINT](https://github.com/r4venrudy/rudy-username-osint)** | Public username discovery through Sherlock, with candidate profile links in Discord |
 | **[Breach Checker](https://github.com/r4venrudy/rudy-breach-checker)** | Breach-source lookups through Discord using a configured, compatible provider |
-| **[Metadata Checker](https://github.com/r4venrudy/rudy-metadata-checker)** | Image EXIF and PDF document-information inspection through Discord |
+| **[Metadata Checker](https://github.com/r4venrudy/rudy-metadata-checker)** | Metadata in photos (EXIF, GPS, XMP, IPTC), videos, MP3s, PDFs and Office files through Discord |
 
 ## What I'm building toward
 
