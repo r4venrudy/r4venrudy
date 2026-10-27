@@ -9,7 +9,7 @@
 
 **Rudy Central is my security workbench.** It connects authorized assessment, Linux kernel visibility, evidence review, and remediation in a local-first browser workspace. The project brings native systems programming and a complete investigation interface together around one question: can an analyst follow an observation back to its evidence?
 
-**Current stage: v0.2.0 / early platform. Source: private.** This page is the public project showcase; the implementation and operator documentation remain in the private repository.
+**Current stage: v0.2.0 / early platform. Source: public.** Explore the [implementation and operator documentation](https://github.com/r4venrudy/rudy-central) in the project repository.
 
 ## What it brings together
 

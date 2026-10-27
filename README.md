@@ -32,9 +32,9 @@ My main focus is **Rudy Evidence**, a shared security SDK with a **C++20** core,
 <p><a href="https://github.com/r4venrudy/rudy-sentinel"><strong>Explore Sentinel →</strong></a> · <a href="https://github.com/r4venrudy/rudy-sentinel/blob/main/docs/validation.md">Validation</a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/r4venrudy/r4venrudy/blob/main/projects/rudy-central.md"><img src="https://raw.githubusercontent.com/r4venrudy/r4venrudy/main/assets/central-card.svg" alt="Rudy Central — Authorized assessment, Linux kernel visibility and signed evidence. Early platform; private source." width="100%"></a>
-<p>Authorized assessment, bounded Linux kernel telemetry, and signed evidence in one browser workspace. <strong>Early platform:</strong> v0.2.0; source private.</p>
-<p><a href="https://github.com/r4venrudy/r4venrudy/blob/main/projects/rudy-central.md"><strong>Explore Central →</strong></a> · <a href="https://rudy.systems">Rudy Systems</a></p>
+<a href="https://github.com/r4venrudy/rudy-central"><img src="https://raw.githubusercontent.com/r4venrudy/r4venrudy/main/assets/central-card.svg" alt="Rudy Central — Authorized assessment, Linux kernel visibility and signed evidence. Early platform; public source." width="100%"></a>
+<p>Authorized assessment, bounded Linux kernel telemetry, and signed evidence in one browser workspace. <strong>Early platform:</strong> v0.2.0; source available on GitHub.</p>
+<p><a href="https://github.com/r4venrudy/rudy-central"><strong>Explore Central →</strong></a> · <a href="https://rudy.systems">Rudy Systems</a></p>
 </td>
 </tr>
 </table>

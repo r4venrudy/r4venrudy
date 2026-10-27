@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="325" viewBox="0 0 600 325" role="img" aria-labelledby="title desc">
   <title id="title">Rudy Central — security workbench</title>
-  <desc id="desc">Authorized scope, Linux visibility, signed captures and reviewable evidence. Rust, C and eBPF, TypeScript and React. Early platform; private source.</desc>
+  <desc id="desc">Authorized scope, Linux visibility, signed captures and reviewable evidence. Rust, C and eBPF, TypeScript and React. Early platform; public source.</desc>
   <rect width="600" height="325" rx="18" fill="#0a1018"/>
   <text x="32" y="44" fill="#55e0b6" font-family="monospace" font-size="17" letter-spacing="2">02 / SECURITY WORKBENCH</text>
   <text x="30" y="106" fill="#edf4fc" font-family="Arial, sans-serif" font-size="38" font-weight="700">Rudy Central</text>
